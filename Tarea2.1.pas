@@ -2,6 +2,7 @@
 CANT_FIL = ...; {cantidad de filas}
 CANT_COL = ...; {cantidad de columnas}
 MAX_MIN  = ...; {máxima cantidad de minas}
+write('hola');
 
 
 RangoFilas = 1 .. CANT_FIL;
